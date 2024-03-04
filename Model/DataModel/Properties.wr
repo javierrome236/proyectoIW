@@ -52,7 +52,7 @@
     <Attribute id="ent1#att3" name="Precio" type="float" db:column="precio"/>
     <Attribute id="ent1#att7" name="DescripcionProducto" type="string" db:column="descripcionproducto"/>
   </Entity>
-  <Entity gr:x="585" gr:y="335" id="ent2" name="Proveedor" duration="persistent" attributeOrder="ent2#att4 ent2#att5 ent2#att6" db:database="db2" db:table="proveedor">
+  <Entity gr:x="380" gr:y="705" id="ent2" name="Proveedor" duration="persistent" attributeOrder="ent2#att4 ent2#att5 ent2#att6" db:database="db2" db:table="proveedor">
     <Attribute id="ent2#att4" key="true" name="oid" type="integer" db:column="oid"/>
     <Attribute id="ent2#att5" name="NombreProveedor" type="string" db:column="nombreproveedor"/>
     <Attribute id="ent2#att6" name="MailProveedor" type="string" db:column="mailproveedor"/>
